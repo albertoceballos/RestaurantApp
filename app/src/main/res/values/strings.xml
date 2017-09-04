@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Restaurant App</string>
+    <string name="welcome_message">Good Afternoon</string>
+    <string name="username_hint">username</string>
+    <string name="password_hint">password</string>
+</resources>
